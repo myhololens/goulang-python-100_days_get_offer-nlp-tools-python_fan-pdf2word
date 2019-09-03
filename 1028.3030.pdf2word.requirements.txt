@@ -1,0 +1,11 @@
+ipython
+juypterlab
+attrs
+lxml
+pdfminer3k
+pluggy
+ply
+py
+pytest
+python-docx
+six
